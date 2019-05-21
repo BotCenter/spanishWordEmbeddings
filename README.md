@@ -14,18 +14,13 @@ We set default parameters of fastText for *Skipgram* task except for *epochs* we
 
 Each model has 1313423 words vectors of the following dimensions:
 
-## XS (dim=10)
+## Download
 
-*Download*: [model.bin](google.com), [model.vec](google.com)
 
-## S (dim=30)
+- **XS (dim=10)**: [model.bin](google.com), [model.vec](google.com)
 
-*Download*: [model.bin](google.com), [model.vec](google.com)
+- **S (dim=30)**: [model.bin](google.com), [model.vec](google.com)
 
-## M (dim=100)
+- **M (dim=100)**: [model.bin](google.com), [model.vec](google.com)
 
-*Download*: [model.bin](google.com), [model.vec](google.com)
-
-## L (dim=300)
-
-*Download*: [model.bin](google.com), [model.vec](google.com)
+- **L (dim=300)**:[model.bin](google.com), [model.vec](google.com)
