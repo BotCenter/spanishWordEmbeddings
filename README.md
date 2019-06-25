@@ -28,4 +28,4 @@ Each model has 1313423 words vectors of the following dimensions:
 
 - **L (dim=300)**:[model.bin](https://zenodo.org/record/3234051/files/embeddings-l-model.bin?download=1), [model.vec](https://zenodo.org/record/3234051/files/embeddings-l-model.vec?download=1)
 
-- **new L (dim=300)**:[model.bin](https://zenodo.org/record/3255001/files/embeddings-new_large-general_3B_fasttext.bin?download=1), [model.vec](https://zenodo.org/record/3234051/files/embeddings-l-model.vec?download=1)
+- **new L (dim=300)**:[model.bin](https://zenodo.org/record/3255001/files/embeddings-new_large-general_3B_fasttext.bin?download=1), [model.vec](https://zenodo.org/record/3255001/files/embeddings-new_large-general_3B_fasttext.vec?download=1)
