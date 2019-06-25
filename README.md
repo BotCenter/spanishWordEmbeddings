@@ -1,13 +1,15 @@
 # Spanish Word Embeddings
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3234051.svg)](https://doi.org/10.5281/zenodo.3234051)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3255001.svg)](https://doi.org/10.5281/zenodo.3255001)
 
-Spanish words embeddings computed using [fastText](https://fasttext.cc) on the [Spanish Unannotated Corpora](https://github.com/josecannete/unannotated-spanish-corpora).
+Spanish words embeddings computed using [fastText](https://fasttext.cc) on the [Spanish Unannotated Corpora](https://github.com/josecannete/spanish-corpora).
 
 ## Pre-Processing
 
-The data used was already preprocessed in [Spanish Unannotated Corpora](https://github.com/josecannete/unannotated-spanish-corpora) to lowercase, remove multiple spaces, remove urls and others. We also used the script to split on punctuation included in the previous repository.
+The data used was already preprocessed in [Spanish Unannotated Corpora](https://github.com/josecannete/spanish-corpora) to lowercase, remove multiple spaces, remove urls and others. We also used the script to split on punctuation included in the previous repository.
 
 According to that tokenization, the 2.6B words corpus got into 3.4B tokens.
+
+For **new L** we used the updated version of [Spanish Unannotated Corpora](https://github.com/josecannete/spanish-corpora) which has 3B words and applied same preprocessing of the other models.
 
 ## fastText Parameters
 
@@ -25,3 +27,5 @@ Each model has 1313423 words vectors of the following dimensions:
 - **M (dim=100)**: [model.bin](https://zenodo.org/record/3234051/files/embeddings-m-model.bin?download=1), [model.vec](https://zenodo.org/record/3234051/files/embeddings-m-model.vec?download=1)
 
 - **L (dim=300)**:[model.bin](https://zenodo.org/record/3234051/files/embeddings-l-model.bin?download=1), [model.vec](https://zenodo.org/record/3234051/files/embeddings-l-model.vec?download=1)
+
+- **new L (dim=300)**:[model.bin](https://zenodo.org/record/3255001/files/embeddings-new_large-general_3B_fasttext.bin?download=1), [model.vec](https://zenodo.org/record/3234051/files/embeddings-l-model.vec?download=1)
