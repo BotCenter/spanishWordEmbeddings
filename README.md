@@ -23,7 +23,7 @@ We evaluated our word embeddings in [SemEval-2017 Task 2 (Subtask 1)](http://alt
 |-------|---------|---------|---------|-------------|---------|
 | Score | 0.59150 | 0.67589 | 0.72345 | **_0.74676_** | 0.72940 |
 
-Being **L** embedding model the best one in Spanish as far as we know in the date of publication.
+Being **L** embedding model **the best one in Spanish** as far as we know in the date of publication.
 
 ## Download
 
