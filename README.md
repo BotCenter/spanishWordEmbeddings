@@ -37,3 +37,9 @@ Being **L** embedding model **the best one in Spanish** as far as we know in the
 - **L (word vectors=1313423, dim=300)**:[model.bin](https://zenodo.org/record/3234051/files/embeddings-l-model.bin?download=1), [model.vec](https://zenodo.org/record/3234051/files/embeddings-l-model.vec?download=1)
 
 - **new L (word vectors=1451827, dim=300)**:[model.bin](https://zenodo.org/record/3255001/files/embeddings-new_large-general_3B_fasttext.bin?download=1), [model.vec](https://zenodo.org/record/3255001/files/embeddings-new_large-general_3B_fasttext.vec?download=1)
+
+## Reference
+
+#### Enriching Word Vectors with Subword Information
+
+[1] P. Bojanowski\*, E. Grave\*, A. Joulin, T. Mikolov, [*Enriching Word Vectors with Subword Information*](https://arxiv.org/abs/1607.04606)
